@@ -1,0 +1,22 @@
+{
+  "name": "react-bootstrap-for-dumb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drbelfast/react-bootstrap-for-dumb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drbelfast/react-bootstrap-for-dumb/issues"
+  },
+  "homepage": "https://github.com/drbelfast/react-bootstrap-for-dumb#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
