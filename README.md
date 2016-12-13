@@ -1,4 +1,4 @@
-# react-bootstrap-for-dumb
+# react-bootstrap-for-dummy
 
 Based on the famous [create react app](https://github.com/facebookincubator/create-react-app)
 
